@@ -3,11 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
+    <lastmod>2020-04-16T23:48:38+01:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +12,18 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-16T23:48:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/nelson-bighetti/</loc>
+    <lastmod>2020-04-16T23:48:38+01:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
@@ -28,10 +32,12 @@
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
