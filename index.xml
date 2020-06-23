@@ -12,5 +12,20 @@
       <link>/</link>
     </image>
     
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;2020-2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TBA&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_2A_2019.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python for Data Scientists&lt;/a&gt; 12 hours
+
+&lt;a href=&#34;https://www.ensae.fr/courses/initiation-aux-langages-r-et-sas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python&lt;/a&gt; 6 hours&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
