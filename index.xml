@@ -37,5 +37,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Publish or perish&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
