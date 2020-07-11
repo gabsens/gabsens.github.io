@@ -46,5 +46,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Tutoring</title>
+      <link>/tutoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tutoring/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/files/tutoring/valabs.pdf&#34;&gt;Valeur absolue&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
