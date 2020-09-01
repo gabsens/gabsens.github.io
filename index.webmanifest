@@ -2,8 +2,8 @@
   "name": "Gabriel Romon&#39;s Homepage",
   "short_name": "Gabriel Romon&#39;s Homepage",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "hsl(215, 59%, 54%)",
+  "background_color": "hsl(215, 59%, 54%)",
   "icons": [{
     "src": "/images/icon_hudc8f75cf1e15d2a475307c695fac391b_72411_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
