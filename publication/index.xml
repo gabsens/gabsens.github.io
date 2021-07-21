@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Gabriel Romon&#39;s Homepage</title>
+    <title>Publications | Gabriel Romon</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2021</copyright>
     <image>
-      <url>/images/icon_hu58925be2d8f575b0fa3808004656db56_99780_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudc8f75cf1e15d2a475307c695fac391b_72411_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Chi-square and normal inference in high-dimensional multi-task regression</title>
+      <link>/publication/bellec-2021-chisquare/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bellec-2021-chisquare/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

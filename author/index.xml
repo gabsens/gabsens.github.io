@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Romon</title>
+    <link>/author/</link>
+      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Romon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2021</copyright>
+    <image>
+      <url>/author/avatar_hu58d1c72482ece142cf3bc6024716e5f8_749373_270x270_fill_lanczos_center_2.png</url>
+      <title>Gabriel Romon</title>
+      <link>/author/</link>
+    </image>
+    
+  </channel>
+</rss>
