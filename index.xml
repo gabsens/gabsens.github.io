@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriel Romon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2021</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2022</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudc8f75cf1e15d2a475307c695fac391b_72411_512x512_fill_lanczos_center_3.png</url>
       <title>Gabriel Romon</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Noise Covariance Estimation in Multi-Task High-dimensional Linear Models</title>
+      <link>/publication/tan-2022-noise/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tan-2022-noise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chi-square and normal inference in high-dimensional multi-task regression</title>
@@ -26,32 +34,60 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description>&lt;p&gt;I am/was a Teaching Assistant for the following courses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2022-2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ensae.fr/en/courses/113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Probability Theory&lt;/strong&gt;&lt;/a&gt; (30 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ensae.fr/en/courses/381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Advanced Machine Learning&lt;/strong&gt;&lt;/a&gt; (9 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ensae.fr/en/courses/109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Functional and Convex Analysis&lt;/strong&gt;&lt;/a&gt; (27 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2021-2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://web.archive.org/web/20210926184155/https://www.ensae.fr/en/courses/probability-theory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Probability Theory&lt;/strong&gt;&lt;/a&gt; (30 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://web.archive.org/web/20210804232710/https://www.ensae.fr/en/courses/advanced-machine-learning-and-datamining/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Advanced Machine Learning&lt;/strong&gt;&lt;/a&gt; (9 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://web.archive.org/web/20210926190108/https://www.ensae.fr/en/courses/functional-and-convex-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Functional and Convex Analysis&lt;/strong&gt;&lt;/a&gt; (27 hours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;2020-2021&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.ensae.fr/en/courses/probability-theory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probability Theory&lt;/a&gt; (30 hours)&lt;/p&gt;
+&lt;a href=&#34;http://web.archive.org/web/20210926184155/https://www.ensae.fr/en/courses/probability-theory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Probability Theory&lt;/strong&gt;&lt;/a&gt; (30 hours)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://www.ensae.fr/en/courses/applied-statistical-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applied Statistical Learning&lt;/a&gt; (6 hours)&lt;/p&gt;
+&lt;a href=&#34;http://web.archive.org/web/20201130082849/https://www.ensae.fr/en/courses/applied-statistical-learning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Applied Statistical Learning&lt;/strong&gt;&lt;/a&gt; (6 hours)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.ensae.fr/en/courses/functional-and-convex-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Functional and Convex Analysis&lt;/a&gt; (27 hours)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Functional and Convex Analysis&lt;/strong&gt;, taught by Vahagn Nersesyan (27 hours)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_2A_2019.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python for Data Scientists&lt;/a&gt; (12 hours)&lt;br&gt;
+&lt;a href=&#34;http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_2A_2019.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Python for Data Scientists&lt;/strong&gt;&lt;/a&gt; (12 hours)&lt;br&gt;
 
 &lt;a href=&#34;https://github.com/gabsens/Python-for-Data-Scientists-ENSAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;material&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.ensae.fr/courses/initiation-to-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Python&lt;/a&gt; (6 hours)&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to Python&lt;/strong&gt; (6 hours)&lt;br&gt;
 
 &lt;a href=&#34;https://github.com/gabsens/Intro-Python-ENSAE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;material&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
