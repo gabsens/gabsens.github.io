@@ -5,12 +5,20 @@
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2022</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gabriel Romon © 2022</copyright><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudc8f75cf1e15d2a475307c695fac391b_72411_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Statistical properties of approximate geometric quantiles in infinite-dimensional Banach spaces</title>
+      <link>/publication/romon-2022-quantiles/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/romon-2022-quantiles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Noise Covariance Estimation in Multi-Task High-dimensional Linear Models</title>
